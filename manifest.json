@@ -1,0 +1,11 @@
+{
+  "name": "Taxi Conventionné CPAM Île-de-France",
+  "short_name": "Taxi VSL CPAM",
+  "description": "Taxi conventionné CPAM en Île-de-France. VSL transport médical : dialyse, chimiothérapie, rééducation. Tiers payant intégral.",
+  "start_url": "/taxi-conventionne-hsaini/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1E5F8A",
+  "lang": "fr",
+  "icons": []
+}

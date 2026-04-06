@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikaquantum.github.io/taxi-conventionne-hsaini/sitemap.xml
